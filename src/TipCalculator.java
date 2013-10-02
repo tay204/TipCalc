@@ -10,7 +10,7 @@ public class TipCalculator
 {
 	public static final double Tax_Rate = .045; //set the tax rate
 	
-	public static void main(String[] args) 
+	public static void main(String[] args) //change
 	{
 		DecimalFormat two = new DecimalFormat("##.00");  
 		// this will helps you to always keeps in two decimal places
